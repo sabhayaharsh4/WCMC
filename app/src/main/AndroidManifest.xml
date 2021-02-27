@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.charusathostels.changahostels">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconpng"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconpng"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/main_act">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".nlk" />
+        <activity android:name=".shrdp" />
+        <activity android:name=".dar" />
+        <activity android:name=".nis" />
+        <activity android:name=".nlkfees" />
+        <activity android:name=".ohm" />
+        <activity android:name=".ash" />
+        <activity android:name=".shrdpfees" />
+        <activity android:name=".nisfees" />
+        <activity android:name=".ohmfees" />
+        <activity android:name=".darfees" />
+        <activity android:name=".ashfees" />
+        <activity android:name=".nlkaddress" />
+        <activity android:name=".shrdpaddress" />
+        <activity android:name=".daraddress" />
+        <activity android:name=".ashaddress" />
+        <activity android:name=".nisaddress" />
+        <activity android:name=".ohmaddress" />
+        <activity android:name=".nlkcontact" />
+        <activity android:name=".shrdpcontact" />
+        <activity android:name=".splashscreen" />
+        <activity android:name=".darcontact" />
+        <activity android:name=".shrdpdining"></activity>
+    </application>
+
+</manifest>

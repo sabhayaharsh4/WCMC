@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ChangaHostels</string>
+    <string name="nilkanth_rooms">nilkanth rooms</string>
+    <string name="rooms">Rooms</string>
+    <string name="nilkanth_dining">nilkanth dining</string>
+    <string name="nilkanth_dininghall">nilkanth dininghall</string>
+    <string name="diining_hall">Dining Hall</string>
+    <string name="nilkanth_fees">nilkanth fees</string>
+    <string name="nilkanth_address">nilkanth address</string>
+
+
+    <string name="nilkanth_room">nilkanth room</string>
+    <string name="nilkanth_contact">nilkanth contact</string>
+    <string name="nilkanth_special_facilities">nilkanth special facilities</string>
+
+    <string name="contact">contact</string>
+    <string name="special_facilities">special facilities</string>
+    <string name="shreedeep_rooms">ShreeDeep Rooms</string>
+    <string name="shreedeep_dining">ShreeDeep Dining</string>
+    <string name="shreedeep_fees">ShreeDeep Fees</string>
+    <string name="shreedeep_address">ShreeDeep Address</string>
+    <string name="shreedeep_special_facilities">ShreeDeep Special Facilities</string>
+    <string name="shreedeep_contact">ShreeDeep Contact</string>
+    <string name="darshan_rooms">Darshan Rooms</string>
+    <string name="darshan_dining">Darshan Dining</string>
+    <string name="darshan_fees">Darshan Fees</string>
+    <string name="darshan_address">Darshan Address</string>
+    <string name="darshan_special_facilities">Darshan Special Facilities</string>
+    <string name="darshan_contact">Darshan Contact</string>
+    <string name="nisarg_room">Nisarg Room</string>
+    <string name="nisarg_dining">Nisarg Dining</string>
+    <string name="nisarg_fees">Nisarg Fees</string>
+    <string name="nisarg_address">Nisarg Address</string>
+    <string name="nisarg_special_facilities">Nisarg Special Facilities</string>
+    <string name="nisarg_contacts">Nisarg Contacts</string>
+    <string name="nilkanth_hostel">nilkanth hostel</string>
+    <string name="shreedeep_hostel">shreedeep hostel</string>
+    <string name="nisarg_hostel">nisarg hostel</string>
+    <string name="total_rooms_13">Total Rooms : 13</string>
+    <string name="no">No.</string>
+    <string name="fees">Fees</string>
+    <string name="types_of_room">Types Of Room</string>
+    <string name="not_available">Not Available</string>
+    <string name="non_ac">Non-AC</string>
+    <string name="ac">AC</string>
+    <string name="ohm_hostel">ohm hostel</string>
+    <string name="ashirwad_hostel">ashirwad hostel</string>
+    <string name="ohm_rooms">ohm rooms</string>
+    <string name="ohm_dining">ohm dining</string>
+    <string name="ohm_fees">ohm fees</string>
+    <string name="ohm_address">ohm address</string>
+    <string name="ohm_special_facilities">ohm special facilities</string>
+    <string name="ohm_contact">ohm contact</string>
+    <string name="ashirwad_rooms">ashirwad rooms</string>
+    <string name="ashirwad_dining">ashirwad dining</string>
+    <string name="ashirwad_fees">ashirwad fees</string>
+    <string name="ashirwad_address">ashirwad address</string>
+    <string name="ashirwad_special_facilities">ashirwad special facilities</string>
+    <string name="ashirwad_contact">ashirwad contact</string>
+    <string name="super_delux">Super Delux</string>
+    <string name="delux">Delux</string>
+    <string name="_2_bed_ac">2 Bed Ac</string>
+    <string name="_2_bed_non_ac">2 Bed Non-AC</string>
+    <string name="address">Address</string>
+    <string name="main_act">main activity</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".nlk">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="175dp">
+
+    <ImageView
+        android:id="@+id/nlkrooms"
+        android:layout_width="180dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/nilkanth_rooms"
+        android:src="@drawable/room_icon" />
+    <Button
+        android:id="@+id/nlkroom"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="125dp"
+        android:contentDescription="@string/nilkanth_room"
+        android:text="@string/rooms" />
+
+    <ImageView
+        android:id="@+id/nlkdinings"
+        android:layout_width="180dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/nilkanth_dining"
+        android:src="@drawable/dining_icon" />
+
+
+    <Button
+        android:id="@+id/nlkdining"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="125dp"
+        android:contentDescription="@string/nilkanth_dininghall"
+        android:text="@string/diining_hall" />
+</RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        >
+
+        <ImageView
+            android:id="@+id/nlkfeess"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/nilkanth_fees"
+            android:src="@drawable/fees_icon" />
+
+        <ImageView
+            android:id="@+id/nlkaddresss"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="190dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/nilkanth_address"
+            android:src="@drawable/address_icon" />
+
+        <Button
+            android:id="@+id/nlkfees"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="125dp"
+            android:contentDescription="@string/nilkanth_fees"
+            android:text="@string/fees" />
+
+        <Button
+            android:id="@+id/nlkaddress"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="190dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="125dp"
+            android:contentDescription="@string/nilkanth_address"
+            android:text="@string/address" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        >
+
+        <ImageView
+            android:id="@+id/nlkspecialfacilitiess"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/nilkanth_special_facilities"
+            android:src="@drawable/specialfacilities_icon" />
+
+        <ImageView
+            android:id="@+id/nlkcontactss"
+            android:layout_width="180dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="190dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/nilkanth_contact"
+            android:src="@drawable/contact_icon" />
+
+        <Button
+            android:id="@+id/nlkspecialfacilities"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="125dp"
+            android:contentDescription="@string/nilkanth_special_facilities"
+            android:text="@string/special_facilities" />
+        <Button
+            android:id="@+id/nlkcontact"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="190dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="125dp"
+            android:contentDescription="@string/nilkanth_contact"
+            android:text="@string/contact" />
+    </RelativeLayout>
+
+
+
+</LinearLayout>
